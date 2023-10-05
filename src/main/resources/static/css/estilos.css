@@ -1,0 +1,67 @@
+body {
+    font-family: Helvetica;
+}
+
+header nav {
+    display: flex;
+    background-color: cadetblue;
+    padding: 15px;
+    justify-content: space-between;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+}
+
+.logo {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+form{
+    background-color: white;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+
+table , td, th {
+	border: 1px solid #595959;
+	border-collapse: collapse;
+}
+td, th {
+	padding: 3px;
+	width: 30px;
+	height: 25px;
+}
+th {
+	background: #f0e6cc;
+}
+
+
+.faq{
+    text-align: center;
+}
+
+.main{
+    background-image: url('https://www.rollingstone.com/wp-content/uploads/2019/09/shutterstock_1242494212.jpg?w=1581&h=1054&crop=1');
+    text-align: center;
+    color: white;
+}
+
+
+
+
